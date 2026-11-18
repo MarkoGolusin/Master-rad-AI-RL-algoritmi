@@ -1,0 +1,60 @@
+
+
+finrl
+
+# Reinforcement Learning
+
+stable-baselines3[extra]
+
+gymnasium
+
+torch
+
+tensorboard
+
+
+# Data processing
+
+numpy
+
+pandas
+
+scipy
+
+scikit-learn
+
+
+# Financial data
+yfinance
+
+exchange-calendars
+
+
+# Technical analysis
+
+stockstats
+
+
+# Visualization
+
+matplotlib
+
+seaborn
+
+
+# Performance analysis
+
+quantstats
+
+pyfolio
+
+
+
+
+jupyter
+
+ipykernel
+
+tqdm
+
+python-dotenv
